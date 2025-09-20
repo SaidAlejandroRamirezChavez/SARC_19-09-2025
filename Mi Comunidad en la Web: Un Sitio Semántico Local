@@ -61,9 +61,65 @@
       </div>
     </div>
 
-
-  <h2 id="scrollspyHeading3" class="bg-dark text-light text-center p-4">¿porque es importante?</h2>
+  <h1 id="scrollspyHeading3" class="text-center bg-dark text-light p-4"  >porque es importante?</h1>
     <div class="row text-center">
       <div class="col ">
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Espacio natural y recreativo: </h5>
+              <p class="card-text">El Parque Central funciona como un pulmón verde dentro de la ciudad, mejorando la calidad del aire y ofreciendo un lugar seguro para que las familias puedan pasear, practicar deportes, descansar y disfrutar de actividades culturales y recreativas.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+      </div>
+      <div class="col ">
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Educación ambiental y punto turístico: </h5>
+              <p class="card-text">Además de promover la conciencia sobre el cuidado del medio ambiente, el parque se ha convertido en un sitio emblemático que atrae tanto a locales como a visitantes, fortaleciendo la identidad y la vida comunitaria de Ciudad Juárez.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+      </div>
+      <div class="col ">
         <img src="parque/puente.webp" alt="imagen del mapa del parque central de ciudad juarez" width="99%">
-  
+        <p class="text-light">.</p>
+      </div>
+    </div>
+
+  <h1 id="scrollspyHeading4" class="text-center bg-dark text-light p-4"  >que especies alberga?</h1>
+    <div class="row text-center">
+      <div class="col ">
+        <div class="card" style="width: 18rem;">
+          <img src="parque/lago.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Peces: </h5>
+            <p class="card-text">El lago del parque cuenta con diversas especies de peces que ayudan a mantener el equilibrio del ecosistema acuático.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+      <div class="col ">
+        <div class="card" style="width: 18rem;">
+          <img src="parque/patos_y_tortugas.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Pequeños animales:</h5>
+            <p class="card-text">El parque también sirve de hogar para algunos roedores, conejos y otras especies pequeñas que habitan los jardines y áreas arboladas.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+      <div class="col ">
+        <div class="card" style="width: 18rem;">
+          <img src="parque/patos.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Aves: </h5>
+            <p class="card-text">Se pueden observar patos, gansos, palomas y ocasionalmente otras aves migratorias que encuentran refugio en el lago artificial y las áreas verdes.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>l
+        </div>
+      </div>
+    </div>
+
+</body>
+</html>
